@@ -38,8 +38,7 @@ These submodels capture the core functional aspects of the 5G network:
 
 To explore or modify the model:
 
-1. Download **AASX Package Explorer**  
-   → https://github.com/admin-shell-io/aasx-package-explorer  
+1. Download AASX Package Explorer v2024-05-08
 
 2. Open the application and load `5G_NETWORK.aasx` via `File → Open`.
 

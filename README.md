@@ -19,7 +19,6 @@ These submodels provide general-purpose metadata shared across multiple AAS in t
 
 - `Identification` – General metadata describing the digital asset
 - `TechnicalData` – Basic technical attributes of the 5G network infrastructure
-- `Documentation` – Attached documentation or external references (e.g., manuals, diagrams, certificates)
 - `Nameplate` – Manufacturer and product identity (manufacturer, model, serial number, hardware/software revisions, year of construction, etc.)
 
 ###  5G-Specific Submodels

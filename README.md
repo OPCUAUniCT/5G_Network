@@ -1,11 +1,11 @@
 # 5G_Network AAS — Asset Administration Shell for 5G Network Infrastructure
 
-This repository contains the **Asset Administration Shell (AAS)** model for a **5G Network Infrastructure**, provided in the file `5G_NETWORK.aasx`.  
+This repository contains the **Asset Administration Shell (AAS)** model for a **5G Network Infrastructure**, provided in the file `5G_Network_AAS.aasx`.  
 The model was developed as part of the *Water 4.0* project to support the integration of 5G connectivity into the **Digital Twin of the Integrated Water System (SII)**.
 
 ## Repository Contents
 
-- `5G_NETWORK.aasx` → Complete AAS model of a 5G Network (shell + submodels)
+- `5G_Network_AAS.aasx` → Complete AAS model of a 5G Network (shell + submodels)
   - Represents the technical, topological, operational, and service-oriented aspects of a 5G network.
 
 
@@ -41,7 +41,7 @@ To explore or modify the model:
 
 1. Download AASX Package Explorer v2024-05-08
 
-2. Open the application and load `5G_NETWORK.aasx` via `File → Open`.
+2. Open the application and load `5G_Network_AAS.aasx` via `File → Open`.
 
 3. Browse the shell and submodels to inspect property structures and semantic definitions.
 
